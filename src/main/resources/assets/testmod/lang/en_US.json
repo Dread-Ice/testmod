@@ -1,0 +1,17 @@
+{
+  "creativetab.test_tab": "BetterTotems",
+
+  "item.testmod.totem_shard": "Totem Shard",
+  "item.testmod.totem_dust": "Totem Dust",
+  "item.testmod.crystalised_totemic_shard": "Crystalised Totemic Shard",
+
+  "item.testmod.totemic_axe": "Totemic Axe",
+  "item.testmod.totemic_pickaxe": "Totemic Pickaxe",
+  "item.testmod.totemic_sword": "Totemic Sword",
+  "item.testmod.totemic_shovel": "Totemic Shovel",
+  "item.testmod.totemic_hoe": "Totemic Hoe",
+
+
+  "block.testmod.totem_block": "Totem Block",
+  "block.testmod.totem_shard_ore": "Totem Shard Ore"
+}

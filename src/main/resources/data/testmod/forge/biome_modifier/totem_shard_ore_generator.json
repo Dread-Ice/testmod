@@ -1,0 +1,6 @@
+{
+  "biomes": "#minecraft:is_end",
+  "features": "testmod:totem_shard_ore_generator",
+  "step": "underground_ores",
+  "type": "forge:add_features"
+}
