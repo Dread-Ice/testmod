@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "testmod:totem_dust"
+    }
+  },
+  "result": {
+    "item": "testmod:totem_block"
+  }
+}
